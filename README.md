@@ -1,4 +1,13 @@
 ~~зачеркнутый текст~~
 
 
-**жирный шрифт~~
+**жирный шрифт**
+
+```Java
+
+class Printer() {
+    public void main(String[]){
+	println("Hello World");
+  }
+}
+```
