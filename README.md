@@ -5,8 +5,8 @@
 
 ```Java
 
-class Printer() {
-    public void main(String[]){
+public class Main() {
+    public static void main(String[] args){
 	println("Hello World");
   }
 }
