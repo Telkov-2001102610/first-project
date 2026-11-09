@@ -38,3 +38,8 @@ public class Main {
   }
 }
 ```
+
+```mermaid
+
+Meramaid-схема
+```
