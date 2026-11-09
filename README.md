@@ -41,6 +41,8 @@ public class Main {
 
 ```mermaid
 graph TD
-A-->B
-B-->C
+Схема состояний файла в Git
+UNTRACKED-->STAGED
+STAGED-->TRACKED
+TRACKED-->MODIFIED
 ```
