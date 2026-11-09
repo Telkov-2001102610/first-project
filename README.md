@@ -40,6 +40,6 @@ public class Main {
 ```
 
 ```mermaid
-
-Meramaid-схема
+A-->B
+B-->C
 ```
