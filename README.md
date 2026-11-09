@@ -40,6 +40,7 @@ public class Main {
 ```
 
 ```mermaid
+graph TD
 A-->B
 B-->C
 ```
